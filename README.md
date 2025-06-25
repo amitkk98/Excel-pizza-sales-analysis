@@ -1,70 +1,41 @@
 
 # 🍕 Pizza Sales Analysis Dashboard
 
-This project analyzes sales data from a fictional pizza store to uncover business insights and trends. Using Excel, I built an interactive dashboard to visualize revenue, order patterns, and pizza performance metrics.
+This project analyzes sales data from a fictional pizza store to uncover key business insights and trends. Using Microsoft Excel, I built an interactive dashboard that visualizes revenue, order patterns, and pizza performance metrics.
 
+-- OBJECTIVES
+  To explore pizza sales data and extract actionable insights using Excel dashboards, pivot tables, and slicers.
 
--- Objective
+--TOOLS USED--
+  Microsoft Excel
+  Pivot Tables
+  Pivot Charts
+  Slicers
+  Dynamic Dashboard Design
 
-To explore pizza sales data and extract actionable insights using Excel dashboards, pivot tables, and slicers.
+---KEY INSIGHTS AND VISUALS--
+-- Business Questions Answered--
+   How many customers do we have each day? Any peak hours?
+   Which pizzas are bestsellers?
+   How much revenue did we generate? Any seasonal trends?
+   Are there underperforming pizzas that should be removed or promoted?
 
+--VISUALIZATION INCLUDED--
+  Top 5 Pizzas by Revenue
+  Bottom 5 Pizzas by Revenue
+  Top 5 Pizzas by Quantity Sold
+  Bottom 5 Pizzas by Quantity Sold
+  Top 5 Pizzas by Total Orders
+  Bottom 5 Pizzas by Total Orders
+  % of Sales by Pizza Size (Pie Chart)
+  Total Pizzas Sold by Category
+  % Sales by Pizza Category (Pie Chart)
+  Hourly Order Trend
+  Weekly & Monthly Trend of Orders
 
-Files Included
-
-| File Name              | Description                                      |
-|------------------------|--------------------------------------------------|
-| `pizza_sales.xlsx`     | Raw data + Pivot Tables + Final Dashboard        |
-
-| `README.md`            | Project documentation (this file)               |
-
----
-
-## 🧠 Key Insights
-
-- **Top-performing pizza:** The Barbecue Chicken Pizza had the highest revenue.
-- **Order trend:** Sales peak during weekends and evenings.
-- **Size impact:** Large-sized pizzas contribute most to total revenue.
-- **Bottom sellers:** The Spinach Alfredo Pizza and The Chicken Alfredo Pizza have the lowest performance in orders and revenue.
-
----
-
-## 🔧 Tools Used
-
-- **Microsoft Excel**
-  - Pivot Tables
-  - Pivot Charts
-  - Slicers
-  - Conditional Formatting
-- *(Optional: Add SQL or Power BI if used)*
-
----
-
-## 📌 Dashboard Features
-
-- KPIs: Total Revenue, Average Order Value, Total Orders
-- Interactive Filters for Pizza Size, Category, and Time
-- Top 5 & Bottom 5 Pizzas by:
-  - Revenue
-  - Quantity Sold
-  - Total Orders
-- Time-based trend analysis
-
----
-
-## 🖼️ Dashboard Preview
-
-![Dashboard Screenshot](dashboard_screenshot.png)
-
----
-
-## 🚀 How to Use
-
-1. Download or open the `pizza_sales.xlsx` file.
-2. Explore the dashboard by using slicers to filter by category, size, and date.
-3. Analyze trends using built-in charts and summary metrics.
-
----
-
-## 📬 Contact
-
-Made with 💡 by
+📌 KPIs ON DASHBOARD
+ --Total Revenue
+ --Average Order Value
+ --Total Orders
+ --Total Pizzas Sold
+ --Average Pizza per Order
