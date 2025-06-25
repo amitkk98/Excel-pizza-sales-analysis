@@ -1,7 +1,5 @@
-
+--FILE-- [pizza sales.xlsx](https://docs.google.com/spreadsheets/d/1ENjFYjbSZMNUarJ4qnQcPLqnodglyxOb/edit?usp=drive_link&ouid=115541741140343341181&rtpof=true&sd=true)
 # 🍕 Pizza Sales Analysis Dashboard
-
-This project analyzes sales data from a fictional pizza store to uncover key business insights and trends. Using Microsoft Excel, I built an interactive dashboard that visualizes revenue, order patterns, and pizza performance metrics.
 
 -- OBJECTIVES
   To explore pizza sales data and extract actionable insights using Excel dashboards, pivot tables, and slicers.
